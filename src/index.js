@@ -6,7 +6,7 @@ import Bomb from './state-drills/Bomb';
 import RouletteGun from './state-drills/RouletteGun'
 import './index.css';
 
-// ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 // ReactDOM.render(<HelloWorld />, document.getElementById('root'));
 // ReactDOM.render(<Bomb />, document.getElementById('root'));
-ReactDOM.render(<RouletteGun />, document.getElementById('root'));
+// ReactDOM.render(<RouletteGun />, document.getElementById('root'));
